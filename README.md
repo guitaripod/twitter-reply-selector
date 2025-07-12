@@ -1,4 +1,4 @@
-[![Github All Releases](https://img.shields.io/github/downloads/marcusziade/twitter-reply-selector/total.svg)](https://github.com/marcusziade/twitter-reply-selector/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/guitaripod/twitter-reply-selector/total.svg)](https://github.com/guitaripod/twitter-reply-selector/releases)
 
 # Twitter Reply Auto-Selector
 
